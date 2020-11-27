@@ -7,7 +7,20 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@amcharts/amcharts4": "^4.10.11",
+    "@amcharts/amcharts4-geodata": "^4.1.19",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/vue-fontawesome": "^3.0.0-1",
+    "@tensorflow-models/coco-ssd": "^2.1.0",
+    "@tensorflow/tfjs-backend-cpu": "^2.7.0",
+    "@tensorflow/tfjs-backend-webgl": "^2.7.0",
+    "@tensorflow/tfjs-converter": "^2.7.0",
+    "@tensorflow/tfjs-core": "^2.7.0",
+    "axios": "^0.21.0",
+    "bootstrap": "^4.5.3",
     "core-js": "^3.6.5",
+    "hls.js": "^1.0.0-alpha.2",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
     "vuex": "^4.0.0-0"
