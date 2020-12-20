@@ -1,4 +1,6 @@
-# vue3_bit_fumes_exes
+# vue-pj-test-playground
+
+> Collection of small vue pjs
 
 ## Project setup
 ```
@@ -15,5 +17,3 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
