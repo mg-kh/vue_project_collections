@@ -53,6 +53,7 @@ const routes = [
 ];
 
 const router = createRouter({
+  linkExactActiveClass : 'active',
   history: createWebHistory(process.env.BASE_URL),
   routes,
 });

@@ -4,15 +4,15 @@
     <router-link class="nav-link" :to="{ name: 'Calculator' }"
       >Calculator</router-link
     >
-    <router-link class="nav-link" :to="{ name: 'Object Dector' }"
+    <!-- <router-link class="nav-link" :to="{ name: 'Object Dector' }"
       >Object Dector</router-link
-    >
+    > -->
     <router-link class="nav-link" :to="{ name: 'Check Weather' }"
       >Check Weather</router-link
     >
-    <router-link class="nav-link" :to="{ name: 'Live Stream' }"
+    <!-- <router-link class="nav-link" :to="{ name: 'Live Stream' }"
       >Stream Video</router-link
-    >
+    > -->
   </div>
   <router-view />
 </template>
@@ -29,7 +29,7 @@
     color: #c9c9c9;
     margin: auto 10px;
 
-    &.router-link-exact-active {
+    &.active{
       color: #ffffff;
     }
   }

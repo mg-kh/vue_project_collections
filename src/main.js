@@ -7,6 +7,9 @@ import { fas } from "@fortawesome/free-solid-svg-icons";
 
 library.add(fas);
 
+
+
+
 createApp(App)
   .use(store)
   .use(router)
